@@ -10,8 +10,8 @@
 <div>
   <h2>Minhas Atividades</h2>
   <a href="https://github.com/FabricioJonatan">
-  <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FabricioJonatan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FabricioJonatan&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FabricioJonatan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FabricioJonatan&layout=compact&langs_count=8&theme=tokyonight"/>
 <div>
   
 <div style="display: inline_block"><br>
